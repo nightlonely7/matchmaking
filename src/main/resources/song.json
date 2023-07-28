@@ -1,0 +1,155 @@
+[
+  {
+    "name": "Party party",
+    "composer": "Audition",
+    "bpm": 130 ,
+    "level": 1,
+    "mode": "BEAT_RUSH",
+    "tags": []
+  },
+  {
+    "name": "Do you know ( ping pong song )",
+    "composer": "Enrique Iglesias",
+    "bpm": 115 ,
+    "level": 1,
+    "mode": "BEAT_RUSH",
+    "tags": []
+  },
+  {
+    "name": "Airplane",
+    "composer": "Turtles",
+    "bpm": 120 ,
+    "level": 1,
+    "mode": "BEAT_RUSH",
+    "tags": []
+  },
+  {
+    "name": "C’est La Vie",
+    "composer": "Khaled",
+    "bpm": 130,
+    "level": 1,
+    "mode": "BEAT_RUSH",
+    "tags": []
+  },
+
+  {
+    "name": "Outta my head",
+    "composer": "Ashley Simpson",
+    "bpm": 128 ,
+    "level": 1,
+    "mode": "BEAT_RUSH",
+    "tags": []
+  },
+  {
+    "name": "Boneless",
+    "composer": "ChrisLake, Stev",
+    "bpm": 128 ,
+    "level": 1,
+    "mode": "BEAT_RUSH",
+    "tags": []
+  },
+  {
+    "name": "Salt",
+    "composer": "Ava max",
+    "bpm": 128 ,
+    "level": 1,
+    "mode": "BEAT_RUSH",
+    "tags": []
+  },
+  {
+    "name": "Cheri Cheri Lady",
+    "composer": "Maléna",
+    "bpm": 112,
+    "level": 1,
+    "mode": "BEAT_RUSH",
+    "tags": []
+  },
+  {
+    "name": "Stronger",
+    "composer": "Kelly Clarkson",
+    "bpm": 116,
+    "level": 1,
+    "mode": "BEAT_RUSH",
+    "tags": []
+  },
+  {
+    "name": "Tik tok",
+    "composer": "Ke$ha",
+    "bpm": 120,
+    "level": 1,
+    "mode": "BEAT_RUSH",
+    "tags": []
+  },
+  {
+    "name": "Eenie Meenie",
+    "composer": "Justin Bieber",
+    "bpm": 121 ,
+    "level": 1,
+    "mode": "BEAT_RUSH",
+    "tags": []
+  },
+  {
+    "name": "Sa-My-D",
+    "composer": "Hedegaard",
+    "bpm": 122 ,
+    "level": 1,
+    "mode": "BEAT_RUSH",
+    "tags": []
+  },
+  {
+    "name": "Bbi Ri Bba Bba",
+    "composer": "Narsha",
+    "bpm": 123,
+    "level": 1,
+    "mode": "BEAT_RUSH",
+    "tags": []
+  },
+  {
+    "name": "WTF",
+    "composer": "HUGEL",
+    "bpm": 124,
+    "level": 1,
+    "mode": "BEAT_RUSH",
+    "tags": []
+  },
+  {
+    "name": "Scream & Shout",
+    "composer": "Will.i.am",
+    "bpm": 130,
+    "level": 1,
+    "mode": "BEAT_RUSH",
+    "tags": []
+  },
+  {
+    "name": "So hot",
+    "composer": "Wonder Girl",
+    "bpm": 140,
+    "level": 2,
+    "mode": "BEAT_RUSH",
+    "tags": []
+  },
+  {
+    "name": "Miracle",
+    "composer": "Cascada",
+    "bpm": 140,
+    "level": 2,
+    "mode": "BEAT_RUSH",
+    "tags": []
+  },
+  {
+    "name": "DDu-Du DDu-Du",
+    "composer": "BlackPink",
+    "bpm": 140,
+    "level": 2,
+    "mode": "BEAT_RUSH",
+    "tags": []
+  },
+  {
+    "name": "Ghệ Đẹp ( Remix)",
+    "composer": "LCKing - Tilo",
+    "bpm": 140,
+    "level": 2,
+    "mode": "BEAT_RUSH",
+    "tags": []
+  }
+]
