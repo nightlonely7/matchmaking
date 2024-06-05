@@ -1,10 +1,12 @@
 package com.example.matchmaking.model;
 
-import lombok.Builder;
+import lombok.AllArgsConstructor;
 import lombok.Data;
+import lombok.NoArgsConstructor;
 
 @Data
-@Builder
+@NoArgsConstructor
+@AllArgsConstructor
 public class MatchmakingUserModel {
     private String username;
     private Boolean host;
